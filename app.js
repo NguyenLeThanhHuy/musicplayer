@@ -37,8 +37,7 @@ const app = {
           name: "Nỗi Đau Mình Anh",
           singer: "Châu Khải Phong x ",
           path: "./asset/audio/NoiDauMinhAnh.mp3",
-          image:
-            "http://static.amusic.vn/amusic/albums/s1/7/59475/59475.jpg?v=1594316651"
+          image: "https://i.ytimg.com/vi/lY0cX2vmQxY/maxresdefault.jpg"
         },
         {
           name: "Bông Hoa Đẹp Nhất",
